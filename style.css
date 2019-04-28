@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Cute+Font');
+body {
+	background: #fff;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 1.4;
+	text-align: center;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+#clock {
+	font-size: 15vw;
+	margin: 0;
+	font-weight: 100;
+	font-family: 'Cute Font', cursive;
+	line-height: 1;
+}
